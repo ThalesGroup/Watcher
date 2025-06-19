@@ -1,10 +1,10 @@
 mysqlclient==2.0.3
 django==3.1.6
 django-mysql==3.11.1
-djangorestframework==3.12.2
+djangorestframework==3.15.2
 django-rest-knox==4.1.0
 apscheduler==3.7.0
-nltk==3.5
+nltk==3.9
 feedparser==6.0.2
 docutils==0.16
 sphinx==3.4.3
@@ -13,7 +13,7 @@ recommonmark==0.7.1
 whitenoise==5.2.0
 python-tlsh==3.17.0
 ipaddress==1.0.23
-dnspython==2.1.0
+dnspython==2.6.1
 shadow-useragent==0.0.17
 thehive4py==1.8.1
 pymisp==2.4.134
